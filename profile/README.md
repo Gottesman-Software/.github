@@ -16,35 +16,6 @@ The work is organized around one principle:
 | Decoding and evidence | [LiDMaS+ / lidmas_cpp](https://github.com/Gottesman-Software/lidmas_cpp) | Quantum error-correction simulation, decoder benchmarking, hardware-to-decoder replay | Surface-code, GKP, hybrid CV-DV, decoder comparison, paper-run workflows |
 | Lab control boundary | [Photon-QDrivers](https://github.com/Gottesman-Software/photon-qdrivers) | Photonic workload control across emulators, native runtimes, FPGA paths, and hardware adapters | Runtime jobs, mailbox contracts, Red Pitaya loopback, detector-emulator validation |
 
-## Research Program
-
-Gottesman Software connects three activities that are often separated too early:
-
-- **SchroSIM** designs and validates photonic circuit workloads before hardware access.
-- **LiDMaS+** turns simulator and hardware-style streams into replayable decoder evidence.
-- **Photon-QDrivers** defines the control boundary for emulators, FPGA paths, and lab-facing prototypes.
-
-The intended workflow is:
-
-```text
-research question
-  -> photonic circuit artifact
-  -> simulator or hardware-style stream
-  -> decoder request and response bundle
-  -> benchmark artifact
-  -> labeled validation boundary
-```
-
-## Evidence Standards
-
-We aim to keep research outputs reproducible and honest by attaching:
-
-- source circuits, runtime configuration, and backend policy;
-- decoder settings, seeds, run identities, and response artifacts;
-- benchmark scripts, figures, tables, and failure diagnostics;
-- software versions and environment notes;
-- clear labels for simulated, replayed, emulated, loopback-bench, and partner-lab results.
-
 ## Research Areas
 
 - Photonic quantum circuit simulation
@@ -66,21 +37,9 @@ Useful collaboration paths include:
 - supporting postdoctoral, graduate, undergraduate, or research-software roles;
 - reviewing claims, documentation, and reproducibility packages.
 
-## Hiring and Roles
-
-The group is building its first research cohort. Planned and open-interest paths include:
-
-- postdoctoral researchers in photonic QEC and decoder evidence;
-- graduate researchers with thesis-aligned software and physics projects;
-- research software fellows focused on CI, releases, tests, and documentation;
-- FPGA and controls research assistants for Photon-QDrivers validation;
-- visiting collaborators with photonics, hardware, or QEC expertise.
-
-Appointments depend on research fit, supervision structure, funding, and university pathways.
-
 ## Boundary
 
-Gottesman Software is currently a research-group software effort. Public repositories, papers, and demonstrations should not be read as claims of complete photonic quantum hardware access unless a result is explicitly labeled as partner-lab hardware evidence.
+> Gottesman Software is currently a research-group software effort. Public repositories, papers, and demonstrations should not be read as claims of complete photonic quantum hardware access unless a result is explicitly labeled as partner-lab hardware evidence.
 
 ## Contact
 
