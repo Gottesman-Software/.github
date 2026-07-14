@@ -7,6 +7,7 @@ Gottesman Software is a university research-group initiative building a connecte
 The work is organized around one principle:
 
 > A quantum-computing claim is not mature until the artifact, decoder path, benchmark, and validation boundary can be inspected.
+> Gottesman Software is currently a research-group software effort. Public repositories, papers, and demonstrations should not be read as claims of complete photonic quantum hardware access unless a result is explicitly labeled as partner-lab hardware evidence.
 
 ## Research Areas
 
@@ -20,14 +21,3 @@ The work is organized around one principle:
 ## Collaboration
 
 > We welcome research collaboration with universities, laboratories, photonics groups, quantum hardware teams, semiconductor groups, and research-software engineers.
-
-## Boundary
-
-> Gottesman Software is currently a research-group software effort. Public repositories, papers, and demonstrations should not be read as claims of complete photonic quantum hardware access unless a result is explicitly labeled as partner-lab hardware evidence.
-
-## Contact
-
-For collaboration, research roles, or proposal discussions:
-
-**Dennis Wayo**  
-`dwayo3@gatech.edu`
