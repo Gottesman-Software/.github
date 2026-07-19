@@ -2,7 +2,7 @@
 
 **Research software for photonic quantum circuit design, quantum error-correction evidence, and lab-facing control prototypes.**
 
-Gottesman Software is a university research-group initiative building a connected software stack for moving photonic quantum ideas from simulation, to decoder evidence, to controlled laboratory validation.
+Gottesman Software is a university research-group initiative building a connected software stack for moving photonic quantum ideas from simulation, to decoder evidence, to controlled laboratory validation. This org. is led by Dr. [Dennis Wayo](https://denniswayo.github.io/), who is currently a PhD candidate in Computer Science at TUBAF, Germany, and an MS candidate at Georgia Tech, USA.
 
 The work is organized around one principle:
 
