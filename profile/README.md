@@ -7,7 +7,8 @@ The work is organized around one principle:
 > A quantum-computing claim is not mature until the artifact, decoder path, benchmark, and validation boundary can be inspected.
 > Gottesman Software is currently a research-group software effort. Public repositories, papers, and demonstrations should not be read as claims of complete photonic quantum hardware access unless a result is explicitly labeled as partner-lab hardware evidence.
 
-> **Research Areas:**
+**Research Areas:**
+
 - Photonic quantum circuit simulation
 - Continuous-variable and hybrid CV-DV quantum error correction
 - GKP digitization and surface-code threshold studies
