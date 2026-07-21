@@ -1,6 +1,6 @@
 # Gottesman Software
 
-**Research software for photonic quantum circuit design, quantum error-correction evidence, and lab-facing control prototypes.** Gottesman Software is a university research-group initiative building a connected software stack for moving photonic quantum ideas from simulation, to decoder evidence, to controlled laboratory validation. This org. is led by Dr. [Dennis Wayo](https://denniswayo.github.io/), who is also currently a PhD candidate in Computer Science at [TUBAF](https://tu-freiberg.de/en/ai/ai-team), Germany, and an MS candidate in Computer Science at [Georgia Tech](https://omscs.gatech.edu/omscs-research), USA. He is the Author of [Qantum Machine Learning Codebook](https://link.springer.com/book/9783032337849).
+**Research software for photonic quantum circuit design, quantum error-correction evidence, and lab-facing control prototypes.** Gottesman Software is a university research-group initiative building a connected software stack for moving photonic quantum ideas from simulation, to decoder evidence, to controlled laboratory validation. This org. is led by Dr. [Dennis Wayo](https://denniswayo.github.io/), who is also currently a PhD candidate in Computer Science at [TUBAF](https://tu-freiberg.de/en/ai/ai-team), Germany, and an MS candidate in Computer Science at [Georgia Tech](https://omscs.gatech.edu/omscs-research), USA. Author of [Qantum Machine Learning Codebook](https://link.springer.com/book/9783032337849).
 
 The work is organized around one principle:
 
